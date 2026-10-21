@@ -8,7 +8,7 @@ Site web portfolio et Curriculum Vitae interactif moderne, ultra-rapide, respons
 
 ## 🎯 Profil Professionnel
 - **Nom & Prénom** : Dédé Karine Ornella BENISSANH
-- **Titre** : Business Development • Data & Analytics • Automatisation IA & No-Code • SaaS & Télécom B2B
+- **Titre** : Business Development • Data & Analytics • Automatisation IA & No-Code • Vibe Coding • SaaS B2B
 - **Localisation** : Lomé, TOGO (Disponible pour opportunités locales, déplacements internationaux et télétravail)
 - **Email** : [karineornella@gmail.com](mailto:karineornella@gmail.com)
 - **Téléphone / WhatsApp** : [+228 98 78 79 00](https://wa.me/22898787900)
