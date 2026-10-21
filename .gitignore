@@ -1,0 +1,8 @@
+# IDE & Local config
+.vscode/
+.agents/
+
+# OS files
+Thumbs.db
+Desktop.ini
+*.log
